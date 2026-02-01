@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Steve Xu
+- 👋 Hi, I’m Steve Xu(Haixiang Xu)
 - 👀 I’m interested in Design & Programming
 - 🌱 I’m currently learning Selenium, 
 - 💞️ I’m building my own web via www.exkillsme.com

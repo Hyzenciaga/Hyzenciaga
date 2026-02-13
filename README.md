@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning Selenium, 
 - 📫 Contact me via steve.haixiangxu@gmail.com
 
-[![Hyzenciaga's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyzenciaga)](https://github.com/Hyzenciaga)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hyzenciaga&show_icons=true)
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Hyzenciaga.Hyzenciaga)](#)

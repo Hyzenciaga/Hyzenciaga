@@ -25,21 +25,17 @@ philosophy: (todo here)
 
 ## 🧠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,go,typescript,fastapi,spring,vue,react,postgres,redis,docker,kubernetes,linux,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,typescript,fastapi,spring,vue,react,postgres,redis,docker,kubernetes,linux,git" />
 </p>
 
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hyzenciaga&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hyzenciaga&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📊 Development Summary
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hyzenciaga&theme=tokyonight" />
 
-## 🔥 Contribution Streak
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hyzenciaga&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hyzenciaga&theme=tokyonight" />
 
 
 ## 🧭 Activity Graph

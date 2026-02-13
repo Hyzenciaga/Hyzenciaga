@@ -15,17 +15,13 @@
 ## 👋 About Me
 
 ```yaml
-name: Hyzenciaga
+name: Steve Xu / Haixiang Xu
 focus:
-  - AI Systems
-  - Backend Engineering
-  - Infrastructure & Tooling
-  - Automation
-learning:
-  - Distributed systems
-  - Agent frameworks
-  - AI evaluation systems
-philosophy: "Build. Iterate. Improve."
+  - AI
+  - Design
+
+philosophy: (todo here)
+```
 
 ## 🧠 Tech Stack
 <p>
@@ -38,6 +34,7 @@ philosophy: "Build. Iterate. Improve."
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hyzenciaga&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hyzenciaga&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ## 🔥 Contribution Streak
 <p align="center">
